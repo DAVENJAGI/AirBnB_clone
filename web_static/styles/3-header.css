@@ -3,5 +3,11 @@ header{
 	height: 70px;
 	width: 100%;
 	border-bottom: 1px #CCCCCC;
-	background-image: url("image/logo.png");
+}
+#header_logo{
+	height: 100%;
+	width: 142px;
+	background-image: url("../images/logo.png");
+	background-repeat: no-repeat;
+	margin-left: 20px;
 }
